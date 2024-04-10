@@ -1,0 +1,7 @@
+D:\Fuck Jetbrains\C#\PO2_3\PO2_3\bin\Debug\PO2_3.exe.config
+D:\Fuck Jetbrains\C#\PO2_3\PO2_3\bin\Debug\PO2_3.exe
+D:\Fuck Jetbrains\C#\PO2_3\PO2_3\bin\Debug\PO2_3.pdb
+D:\Fuck Jetbrains\C#\PO2_3\PO2_3\obj\Debug\PO2_3.csproj.AssemblyReference.cache
+D:\Fuck Jetbrains\C#\PO2_3\PO2_3\obj\Debug\PO2_3.csproj.CoreCompileInputs.cache
+D:\Fuck Jetbrains\C#\PO2_3\PO2_3\obj\Debug\PO2_3.exe
+D:\Fuck Jetbrains\C#\PO2_3\PO2_3\obj\Debug\PO2_3.pdb
